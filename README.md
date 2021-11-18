@@ -120,6 +120,7 @@ If you’re not familiar with NumPy, you can use the official NumPy User Guide a
 The package scikit-learn is a widely used Python library for machine learning, built on top of NumPy and some other packages. It provides the means for preprocessing data, reducing dimensionality, implementing regression, classification, clustering, and more. Like NumPy, scikit-learn is also open source.
 
 You can check the page Generalized Linear Models on the scikit-learn web site to learn more about linear models and get deeper insight into how this package works.
+![image](https://user-images.githubusercontent.com/75231800/142344913-f0f0d01f-4f8c-4d0a-b18d-2470cccf1353.png)
 
 If you want to implement linear regression and need the functionality beyond the scope of scikit-learn, you should consider statsmodels. It’s a powerful Python package for the estimation of statistical models, performing tests, and more. It’s open source as well.
 
