@@ -1,6 +1,7 @@
 # Task-4
 
-#linear regression
+# linear regression
+
 What Is Regression?
 Regression searches for relationships among variables.
 
@@ -111,7 +112,7 @@ Create a regression model and fit it with existing data.
 Check the results of model fitting to know whether the model is satisfactory.
 Apply the model for predictions.
 
-#logistic regression
+# logistic regression
 What Is Classification?
 Supervised machine learning algorithms define models that capture relationships among data. Classification is an area of supervised machine learning that tries to predict which class or category some entity belongs to, based on its features.
 
